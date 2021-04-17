@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0.1em;
+    text-align-last: auto;
+}
+
+body {
+    background-color: #f6f5f5;
+    padding: 24px;
+}
+
+section{
+    width: 100%;
+    height: 95vh;
+}
+
+header{
+    text-align: center;
+    font-size: large;
+}
+
+.textbox{
+    border-bottom: 1px solid black;
+}
+
+.box{
+    display: flex;
+}
+
+.block{
+    margin-left: 5em;
+    list-style-position: inside;
+}
+
+.date{
+    width: 100px;
+    font-weight: 700;
+}
